@@ -1,0 +1,13 @@
+=== 01_mundo_da_prova_3x3 ===
+Legenda: A agente | P pacote | X destino | # obstáculo | $ pedágio | * caminho
+
+A $ P
+. # .
+. X .
+
+Plano: direita ; direita ; pegar ; baixo ; baixo ; esquerda ; entregar
+Ações: 7 | Custo: 9
+
+A * P
+. # *
+. X *

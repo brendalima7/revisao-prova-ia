@@ -1,0 +1,27 @@
+=== 02_aleatorio_10x10 ===
+Legenda: A agente | P pacote | X destino | # obstáculo | $ pedágio | * caminho
+
+. $ . . # . $ . . #
+. . . . . . . . . .
+# . . $ . $ . . . $
+. . . . . . . P # .
+$ $ . . . . . . $ .
+. # . A . . . . . .
+. . . . . X . . . .
+. $ $ . . . . $ . .
+. . . . . $ . $ . .
+. . . $ . . . . . .
+
+Plano: direita ; direita ; direita ; direita ; cima ; cima ; pegar ; esquerda ; esquerda ; baixo ; baixo ; baixo ; entregar
+Ações: 13 | Custo: 19
+
+. $ . . # . $ . . #
+. . . . . . . . . .
+# . . $ . $ . . . $
+. . . . . * * P # .
+$ $ . . . * . * $ .
+. # . A * * * * . .
+. . . . . X . . . .
+. $ $ . . . . $ . .
+. . . . . $ . $ . .
+. . . $ . . . . . .

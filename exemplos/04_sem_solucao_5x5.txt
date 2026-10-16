@@ -1,0 +1,10 @@
+=== 04_sem_solucao_5x5 ===
+Legenda: A agente | P pacote | X destino | # obstáculo | $ pedágio | * caminho
+
+A $ . . .
+. . # . .
+. # P # .
+. . # . .
+. . . . X
+
+Não existe solução para este problema.
